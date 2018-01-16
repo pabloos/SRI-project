@@ -1,6 +1,6 @@
 #A failed test to show how travis.yml works
 
-import server
+#import db
 import unittest
  
 class TestAdd(unittest.TestCase):
