@@ -7,4 +7,4 @@ install:
   - pip install -r chat/server/requirements.txt
 
 test:
-  - python test.py
+  - python chat/server/test.py
