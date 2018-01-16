@@ -6,5 +6,5 @@ python:
 install:
   - pip install -r chat/server/requirements.txt
 
-test:
+script:
   - python chat/server/test.py
