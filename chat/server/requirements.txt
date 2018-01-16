@@ -1,1 +1,2 @@
 PyMySQL==0.7.2
+unittest=>1.0.0

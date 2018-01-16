@@ -1,3 +1,6 @@
+#Apple folder conf
+.DS_Store
+
 #VS conf project
 
 sri.code-workspace
